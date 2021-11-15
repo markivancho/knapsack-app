@@ -37,5 +37,8 @@
   },
   "devDependencies": {
     "@knapsack-pro/jest": "^5.2.0"
+  },
+  "babel": {
+    "presets": ["@babel/preset-env", "@babel/preset-react"]
   }
 }
